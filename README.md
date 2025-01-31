@@ -10,7 +10,7 @@ Curious about **how quantum computing can supercharge AI?** Stick around! 🎯
 ---
 
 ## 🚀 What I Do  
-- 🧠 **Quantum ML Researcher** @ Texas A&M – Exploring **Quantum-Inspired ML** to push AI beyond its limits.  
+- 🧠 **Quantum ML Researcher** @ CPPES Lab, US – Exploring **Quantum-Inspired ML** to push AI beyond its limits.  
 - 🔥 **Founder @ [QFoundry](https://qfoundry.in)** – Building the next generation of **quantum-powered** systems in India.  
 - 🌐 **Software Engineer** – Previously at Amazon & Conmove.io, shipping AI-driven solutions to production.  
 - ✍️ **Tech Writer** – Explaining Quantum Systems to the one who does not understand quantum @ [Medium](https://medium.com/@ameyakhot18).  
