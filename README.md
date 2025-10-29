@@ -1,46 +1,41 @@
-# Hi there, I'm Ameya Khot! 🚀  
-### *Bridging the gap between Quantum Computing & AI*  
+Hi there, I'm Ameya Khot
+Bridging the gap between Quantum Computing and AI
 
-🔬 **Quantum ML Researcher** | 👨‍💻 **ML Engineer** | 🌍 **Founder @ [QFoundry](https://qfoundry.in)**  
+Quantum ML Researcher | ML Engineer
 
-The **future of computing is quantum**, and I’m on a mission to bring it to life. Whether it's **designing quantum-inspired AI models for security**, **training next-gen ML algorithms**, or **building AI-driven products**, I thrive at the cutting edge where **Quantum, AI, and Software Engineering** collide.  
-
-Curious about **how quantum computing can supercharge AI?** Stick around! 🎯  
+The future of computing is quantum. I work at the intersection of Quantum Computing, Artificial Intelligence, and scalable software systems. Focus: quantum-inspired learning, adversarial robustness, and efficient AI architectures.
 
 ---
 
-## 🚀 What I Do  
-- 🧠 **Quantum ML Researcher** @ CPPES Lab, US – Exploring **Quantum-Inspired ML** to push AI beyond its limits.  
-- 🔥 **Founder @ [QFoundry](https://qfoundry.in)** – Building the next generation of **quantum-powered** systems in India.  
-- 🌐 **Software Engineer** – Previously at Amazon & Conmove.io, shipping AI-driven solutions to production.  
-- ✍️ **Tech Writer** – Explaining Quantum Systems to the one who does not understand quantum @ [Medium](https://medium.com/@ameyakhot18).  
+What I Do
+
+* Quantum ML Researcher @ CPPES Lab, US – Quantum-inspired ML for high-efficiency and robust AI
+* Software Engineer – Previously at Amazon and Conmove.io, shipped AI systems to production
 
 ---
 
-## 🔬 Research & Publications  
+Research and Publications
+Quantum for AI security and efficiency
 
-🔍 **Exploring Quantum for AI Security & Efficiency**  
-- **Quantum-Inspired ML for AI Security** – Boosting model robustness while reducing training energy by **66%**!  
-- **Quantum-Convolutional Neural Networks (QCNNs)** – Pioneering deep learning architectures with **Quantum ML**.  
-- **QBoost Security Model** – Defending AI models against **75% of adversarial attacks**.  
+* Quantum-Inspired ML for AI Security – Increased adversarial robustness, 66 percent reduction in training energy
+* Quantum-Convolutional Neural Networks (QCNNs) – Hybrid quantum deep learning architectures
+* QBoost Security Model – Mitigates 75 percent of adversarial attacks
 
-📖 **Read my work:**  
-- 🏛 **[Google Scholar](https://scholar.google.com/citations?hl=en&user=Xu5_8cwAAAAJ)**  
-- 🔬 **[ResearchGate](https://www.researchgate.net/profile/Ameya-Khot/research)**  
+Publications
 
----
-
-## 🛠 Tech Stack  
-💡 **Quantum Computing:** Qiskit, DWave, Pennylane  
-💡 **Machine Learning:** PyTorch, TensorFlow, Keras  
-💡 **Software Engineering:** Python, JavaScript, Docker, AWS  
+* Google Scholar: [https://scholar.google.com/citations?hl=en&user=Xu5_8cwAAAAJ](https://scholar.google.com/citations?hl=en&user=Xu5_8cwAAAAJ)
+* ResearchGate: [https://www.researchgate.net/profile/Ameya-Khot/research](https://www.researchgate.net/profile/Ameya-Khot/research)
 
 ---
 
-## 🌍 Connect with Me  
-🚀 **Website:** [ameyakhot.com](https://ameyakhot.com)  
-📖 **LinkedIn:** [linkedin.com/in/ameyakhot](https://linkedin.com/in/ameyakhot)  
-🧠 **QFoundry:** [qfoundry.in](https://qfoundry.in)  
-✉️ **Let's talk AI & Quantum:** ameyakhot@proton.me  
+Tech Stack
+Quantum: Qiskit, DWave, Pennylane
+Machine Learning: PyTorch, TensorFlow, Keras
+Software Engineering: Python, JavaScript, Docker, AWS
 
-Let’s build the **quantum future** together! 💡🔬  
+---
+
+Connect
+Website: [https://ameyakhot.com](https://ameyakhot.com)
+LinkedIn: [https://linkedin.com/in/ameyakhot](https://linkedin.com/in/ameyakhot)
+Contact: [ameyakhot@proton.me](mailto:ameyakhot@proton.me)
