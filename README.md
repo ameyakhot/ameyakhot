@@ -1,6 +1,6 @@
 Hi there, I'm Ameya Khot.
 
-I build AI Systems.
+I build AI Systems & Systems with AI. 
 
 Publications
 
